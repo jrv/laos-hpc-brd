@@ -1,0 +1,460 @@
+# EESchema Netlist Version 1.1 created  Thu 07 Jun 2012 03:20:24 PM CEST
+(
+ ( /4FCF7646 Pkg  C5 100uF {Lib=CAP_POL}
+  (    1 VAA )
+  (    2 GND )
+ )
+ ( /4FCF7640 Pkg  C4 100nF {Lib=C}
+  (    1 GND )
+  (    2 VAA )
+ )
+ ( /4FCF05D6 $noname  J11 MICROSDCARD {Lib=MICROSDCARD}
+  (    1 ? )
+  (    2 N-000029 )
+  (    3 N-000028 )
+  (    4 +3V3 )
+  (    5 N-000027 )
+  (    6 GND )
+  (    7 N-000031 )
+  (    8 ? )
+ )
+ ( /4FCA2303 $noname  P1 FLATCONN {Lib=CONN_12}
+  (    1 ? )
+  (    2 ? )
+  (    3 VAA )
+  (    4 N-000041 )
+  (    5 N-000037 )
+  (    6 GND )
+  (    7 ? )
+  (    8 ? )
+  (    9 N-000068 )
+  (   10 N-000064 )
+  (   11 N-000034 )
+  (   12 N-000063 )
+ )
+ ( /4EADB8C1 $noname  J8 CONN_3 {Lib=CONN_3}
+  (    1 VPP )
+  (    2 GND )
+  (    3 VAA )
+ )
+ ( /4E1435F8 $noname  H4 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435F7 $noname  H3 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435F4 $noname  H2 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435EA $noname  H1 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E0DE6FC Pkg  C3 1000uF {Lib=CAP_POL}
+  (    1 VPP )
+  (    2 GND )
+ )
+ ( /4E0DE69E Pkg  C2 100nF {Lib=C}
+  (    1 GND )
+  (    2 VPP )
+ )
+ ( /4E0AF935 $noname  J3 MBED_NXP {Lib=MBED}
+  (    1 GND )
+  (    2 VAA )
+  (    3 ? )
+  (    4 ? )
+  (    5 N-000045 )
+  (    6 N-000005 )
+  (    7 N-000009 )
+  (    8 N-000042 )
+  (    9 N-000047 )
+  (   10 N-000048 )
+  (   11 N-000028 )
+  (   12 N-000031 )
+  (   13 N-000027 )
+  (   14 N-000029 )
+  (   15 ? )
+  (   16 ? )
+  (   17 N-000066 )
+  (   18 ? )
+  (   19 ? )
+  (   20 N-000004 )
+  (   21 ? )
+  (   22 ? )
+  (   23 N-000021 )
+  (   24 N-000004 )
+  (   25 N-000019 )
+  (   26 N-000065 )
+  (   27 ? )
+  (   28 ? )
+  (   29 ? )
+  (   30 ? )
+  (   31 ? )
+  (   32 ? )
+  (   33 N-000049 )
+  (   34 N-000051 )
+  (   35 N-000050 )
+  (   36 N-000052 )
+  (   37 ? )
+  (   38 ? )
+  (   39 ? )
+  (   40 +3V3 )
+ )
+ ( /4E0DDF63 $noname  J4 POLOLU1201 {Lib=POLOLU1201}
+  (    1 N-000009 )
+  (    2 N-000053 )
+  (    3 N-000053 )
+  (    4 N-000053 )
+  (    5 N-000008 )
+  (    6 N-000008 )
+  (    7 N-000065 )
+  (    8 N-000019 )
+  (    9 GND )
+  (   10 VAA )
+  (   11 N-000057 )
+  (   12 N-000056 )
+  (   13 N-000055 )
+  (   14 N-000054 )
+  (   15 GND )
+  (   16 VPP )
+ )
+ ( /4E0DDF60 Pkg  J9 YAXIS {Lib=CONN_4}
+  (    1 N-000054 )
+  (    2 N-000055 )
+  (    3 N-000056 )
+  (    4 N-000057 )
+ )
+ ( /4E0DDF5F $noname  R5 1K {Lib=R}
+  (    1 N-000053 )
+  (    2 VAA )
+ )
+ ( /4E0DDF26 Pkg  J10 XAXIS {Lib=CONN_4}
+  (    1 N-000034 )
+  (    2 N-000063 )
+  (    3 N-000068 )
+  (    4 N-000064 )
+ )
+ ( /4E0DDF23 $noname  J5 POLOLU1201 {Lib=POLOLU1201}
+  (    1 N-000009 )
+  (    2 N-000053 )
+  (    3 N-000053 )
+  (    4 N-000053 )
+  (    5 N-000070 )
+  (    6 N-000070 )
+  (    7 N-000004 )
+  (    8 N-000021 )
+  (    9 GND )
+  (   10 VAA )
+  (   11 N-000064 )
+  (   12 N-000068 )
+  (   13 N-000063 )
+  (   14 N-000034 )
+  (   15 GND )
+  (   16 VPP )
+ )
+ ( /4E0B31B4 Pkg  J6 OUTPUT34 {Lib=CONN_4}
+  (    1 N-000062 )
+  (    2 N-000043 )
+  (    3 N-000061 )
+  (    4 N-000044 )
+ )
+ ( /4E0B30D7 DIP16  IC1 KB847 {Lib=KB847}
+  (    1 VAA )
+  (    2 N-000060 )
+  (    3 VAA )
+  (    4 N-000059 )
+  (    5 N-000058 )
+  (    6 N-000005 )
+  (    7 N-000046 )
+  (    8 N-000045 )
+  (    9 N-000044 )
+  (   10 N-000061 )
+  (   11 N-000043 )
+  (   12 N-000062 )
+  (   13 GND )
+  (   14 N-000066 )
+  (   15 GND )
+  (   16 N-000042 )
+ )
+ ( /4E0B30D3 $noname  R8 330R {Lib=R}
+  (    1 N-000058 )
+  (    2 VAA )
+ )
+ ( /4E0B30D2 $noname  R9 330R {Lib=R}
+  (    1 N-000046 )
+  (    2 VAA )
+ )
+ ( /4E0B2CE4 $noname  R4 10k {Lib=R}
+  (    1 VAA )
+  (    2 N-000042 )
+ )
+ ( /4E0B2CD5 $noname  R3 10k {Lib=R}
+  (    1 VAA )
+  (    2 N-000066 )
+ )
+ ( /4E0B28EE Pkg  J7 INPUT34 {Lib=CONN_4}
+  (    1 VAA )
+  (    2 N-000041 )
+  (    3 N-000037 )
+  (    4 GND )
+ )
+ ( /4E0B2880 $noname  R7 1K {Lib=R}
+  (    1 N-000059 )
+  (    2 N-000037 )
+ )
+ ( /4E0B287C $noname  R6 1K {Lib=R}
+  (    1 N-000060 )
+  (    2 N-000041 )
+ )
+ ( /4E0B1D13 Pkg  C1 100nF {Lib=C}
+  (    1 GND )
+  (    2 +3V3 )
+ )
+ ( /4E0B182D $noname  J2 MAGJACK {Lib=MAGJACK}
+  (    1 N-000050 )
+  (    2 +3V3 )
+  (    3 N-000052 )
+  (    4 N-000049 )
+  (    5 +3V3 )
+  (    6 N-000051 )
+  (    8 GND )
+  (    9 ? )
+  (   10 GND )
+  (   11 ? )
+  (   12 GND )
+  (   13 GND )
+ )
+ ( /4E0B0D49 $noname  R2 2K2 {Lib=R}
+  (    1 N-000048 )
+  (    2 VAA )
+ )
+ ( /4E0B0C20 Pkg  J1 I2C {Lib=CONN_4}
+  (    1 VAA )
+  (    2 N-000048 )
+  (    3 N-000047 )
+  (    4 GND )
+ )
+ ( /4E0AEA02 $noname  R1 2K2 {Lib=R}
+  (    1 N-000047 )
+  (    2 VAA )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R5
+ R*
+$endlist
+$component R8
+ R*
+$endlist
+$component R9
+ R*
+$endlist
+$component R4
+ R*
+$endlist
+$component R3
+ R*
+$endlist
+$component R7
+ R*
+$endlist
+$component R6
+ R*
+$endlist
+$component R2
+ R*
+$endlist
+$component R1
+ R*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 4 "" ""
+ J3 24
+ J5 7
+ J3 20
+Net 5 "" ""
+ IC1 6
+ J3 6
+Net 8 "" ""
+ J4 5
+ J4 6
+Net 9 "" ""
+ J4 1
+ J3 7
+ J5 1
+Net 19 "" ""
+ J3 25
+ J4 8
+Net 21 "" ""
+ J5 8
+ J3 23
+Net 25 "VPP" "VPP"
+ J4 16
+ C2 2
+ J8 1
+ J5 16
+ C3 1
+Net 27 "" ""
+ J11 5
+ J3 13
+Net 28 "" ""
+ J11 3
+ J3 11
+Net 29 "" ""
+ J11 2
+ J3 14
+Net 31 "" ""
+ J3 12
+ J11 7
+Net 32 "+3V3" "+3V3"
+ J11 4
+ J2 5
+ J2 2
+ C1 2
+ J3 40
+Net 33 "GND" "GND"
+ J4 15
+ J4 9
+ J5 9
+ J11 6
+ J8 2
+ J5 15
+ C3 2
+ C2 1
+ J3 1
+ C4 1
+ C5 2
+ J2 13
+ J7 4
+ J2 8
+ J2 10
+ J1 4
+ IC1 15
+ P1 6
+ J2 12
+ C1 1
+ IC1 13
+Net 34 "" ""
+ J5 14
+ J10 1
+ P1 11
+Net 37 "" ""
+ P1 5
+ R7 2
+ J7 3
+Net 41 "" ""
+ P1 4
+ J7 2
+ R6 2
+Net 42 "" ""
+ IC1 16
+ R4 2
+ J3 8
+Net 43 "" ""
+ J6 2
+ IC1 11
+Net 44 "" ""
+ IC1 9
+ J6 4
+Net 45 "" ""
+ J3 5
+ IC1 8
+Net 46 "" ""
+ R9 1
+ IC1 7
+Net 47 "" ""
+ J1 3
+ R1 1
+ J3 9
+Net 48 "" ""
+ J1 2
+ J3 10
+ R2 1
+Net 49 "" ""
+ J3 33
+ J2 4
+Net 50 "" ""
+ J3 35
+ J2 1
+Net 51 "" ""
+ J3 34
+ J2 6
+Net 52 "" ""
+ J3 36
+ J2 3
+Net 53 "" ""
+ J5 3
+ J5 4
+ R5 1
+ J5 2
+ J4 4
+ J4 2
+ J4 3
+Net 54 "" ""
+ J9 1
+ J4 14
+Net 55 "" ""
+ J4 13
+ J9 2
+Net 56 "" ""
+ J4 12
+ J9 3
+Net 57 "" ""
+ J9 4
+ J4 11
+Net 58 "" ""
+ R8 1
+ IC1 5
+Net 59 "" ""
+ IC1 4
+ R7 1
+Net 60 "" ""
+ IC1 2
+ R6 1
+Net 61 "" ""
+ IC1 10
+ J6 3
+Net 62 "" ""
+ J6 1
+ IC1 12
+Net 63 "" ""
+ J10 2
+ P1 12
+ J5 13
+Net 64 "" ""
+ J10 4
+ P1 10
+ J5 11
+Net 65 "" ""
+ J3 26
+ J4 7
+Net 66 "" ""
+ J3 17
+ IC1 14
+ R3 2
+Net 68 "" ""
+ J10 3
+ J5 12
+ P1 9
+Net 69 "VAA" "VAA"
+ R3 1
+ J4 10
+ J7 1
+ P1 3
+ J3 2
+ R5 2
+ IC1 3
+ IC1 1
+ C4 2
+ R1 2
+ J1 1
+ R2 2
+ R4 1
+ R9 2
+ J8 3
+ J5 10
+ C5 1
+ R8 2
+Net 70 "" ""
+ J5 5
+ J5 6
+}
+#End

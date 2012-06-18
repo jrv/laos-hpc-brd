@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by CvPcb (2012-02-06 BZR 3180)-stable date = Wed 06 Jun 2012 05:28:28 PM CEST
+
+BeginCmp
+TimeStamp = /4E0B1D13;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DE69E;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DE6FC;
+Reference = C3;
+ValeurCmp = 1000uF;
+IdModule  = CCAP_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FCF7640;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FCF7646;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = CCAP_3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1435EA;
+Reference = H1;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = HOLE_3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1435F4;
+Reference = H2;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = HOLE_3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1435F7;
+Reference = H3;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = HOLE_3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1435F8;
+Reference = H4;
+ValeurCmp = MOUNT_HOLE;
+IdModule  = HOLE_3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B30D7;
+Reference = IC1;
+ValeurCmp = KB847;
+IdModule  = 16DIP300-ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B0C20;
+Reference = J1;
+ValeurCmp = I2C;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B182D;
+Reference = J2;
+ValeurCmp = MAGJACK;
+IdModule  = RJ45_HALO_HFJ11;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0AF935;
+Reference = J3;
+ValeurCmp = MBED_NXP;
+IdModule  = MBED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DDF63;
+Reference = J4;
+ValeurCmp = POLOLU1201;
+IdModule  = POLOLU1201;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DDF23;
+Reference = J5;
+ValeurCmp = POLOLU1201;
+IdModule  = POLOLU1201;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B31B4;
+Reference = J6;
+ValeurCmp = OUTPUT34;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B28EE;
+Reference = J7;
+ValeurCmp = INPUT34;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EADB8C1;
+Reference = J8;
+ValeurCmp = CONN_3;
+IdModule  = CONN_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DDF60;
+Reference = J9;
+ValeurCmp = YAXIS;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DDF26;
+Reference = J10;
+ValeurCmp = XAXIS;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FCF05D6;
+Reference = J11;
+ValeurCmp = MICROSDCARD;
+IdModule  = MicroSDCARD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FCA2303;
+Reference = P1;
+ValeurCmp = FLATCONN;
+IdModule  = FLAT-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0AEA02;
+Reference = R1;
+ValeurCmp = 2K2;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B0D49;
+Reference = R2;
+ValeurCmp = 2K2;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B2CD5;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B2CE4;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0DDF5F;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B287C;
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B2880;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B30D3;
+Reference = R8;
+ValeurCmp = 330R;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E0B30D2;
+Reference = R9;
+ValeurCmp = 330R;
+IdModule  = c_1206;
+EndCmp
+
+EndListe
